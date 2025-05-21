@@ -28,8 +28,13 @@ This project uses custom CNNs and pretrained models (ResNet18, VGG16) to detect 
 ![GradCAM](plots/gradcam_examples.png)
 
 ## 🧪 Dataset
-**CIFAKE — Real and GAN-generated synthetic images**  
-[🔗 View Dataset on HuggingFace](https://huggingface.co/datasets/utkarsh5123/cifake)
+**CIFAKE — Real and AI-generated synthetic images**
+
+This dataset is hosted on Kaggle and consists of:
+- **REAL** images taken from the CIFAR-10 dataset  
+- **FAKE** images generated using latent diffusion models to imitate CIFAR-10 classes
+
+🔗 [View on Kaggle](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
 
 ## 📁 Repo Contents
 - `CIFAKE_Deep_Learning.ipynb` – full model pipeline (Colab notebook)
