@@ -49,10 +49,12 @@ The dataset consists of:
 **License:** MIT License — same as CIFAR-10  
 This project does not claim ownership of the dataset. All rights remain with the original creators.
 
-**If you use this dataset, please cite:**
+### 📚 Acknowledgements
 
-> Bird, J.J. and Lotfi, A. (2024). CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. *IEEE Access*.  
-> Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.
+This project is based on the **CIFAKE** dataset published by:
+
+- Bird, J.J. and Lotfi, A. (2024). *CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images*. IEEE Access.
+- Krizhevsky, A., & Hinton, G. (2009). *Learning multiple layers of features from tiny images*.
 
 ## 📁 Repo Contents
 - `CIFAKE_Deep_Learning.ipynb` – full model pipeline (Colab notebook)
