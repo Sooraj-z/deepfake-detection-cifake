@@ -31,10 +31,10 @@ This project uses custom CNNs and pretrained models (ResNet18, VGG16) to detect 
 ## 🔥 Grad-CAM Examples
 
 ### ResNet18  
-![ResNet18 Grad-CAM](plots/gradcam_examples/resnet_gradcam.png)
+![ResNet18 Grad-CAM](plots/Grad-CAM_examples/ResNet18_Grad-CAM.png)
 
 ### VGG16  
-![VGG16 Grad-CAM](plots/gradcam_examples/vgg_gradcam.png)
+![VGG16 Grad-CAM](plots/Grad-CAM_examples/VGG16_Grad_CAM.png)
 
 
 ## 🧪 Dataset
