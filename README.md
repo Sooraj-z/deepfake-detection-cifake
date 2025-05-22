@@ -29,13 +29,7 @@ This project uses custom CNNs and pretrained models (ResNet18, VGG16) to detect 
 - Grad-CAM visualizations on fake and real images  
 
 ## 🔥 Grad-CAM Examples
-
-### ResNet18  
-![ResNet18 Grad-CAM](plots/Grad-CAM_examples/ResNet18_Grad-CAM.png)
-
-### VGG16  
-![VGG16 Grad-CAM](plots/Grad-CAM_examples/VGG16_Grad_CAM.png)
-
+- For Resnet18 and VGG16 models.
 
 ## 🧪 Dataset
 **CIFAKE — Real and AI-generated synthetic images**
