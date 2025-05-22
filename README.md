@@ -43,5 +43,3 @@ This dataset is hosted on Kaggle and consists of:
 ## 📁 Repo Contents
 - `CIFAKE_Deep_Learning.ipynb` – full model pipeline (Colab notebook)
 - `plots/` – confusion matrix, ROC, PR curves, Grad-CAM overlays
-- `models/` – saved PyTorch weights
-- `logs/` – training logs in `.pkl` format
