@@ -28,8 +28,14 @@ This project uses custom CNNs and pretrained models (ResNet18, VGG16) to detect 
 - Precision-Recall Curve  
 - Grad-CAM visualizations on fake and real images  
 
-## 🔬 Grad-CAM Examples
-![GradCAM](plots/gradcam_examples.png)
+## 🔥 Grad-CAM Examples
+
+### ResNet18  
+![ResNet18 Grad-CAM](plots/gradcam_examples/resnet_gradcam.png)
+
+### VGG16  
+![VGG16 Grad-CAM](plots/gradcam_examples/vgg_gradcam.png)
+
 
 ## 🧪 Dataset
 **CIFAKE — Real and AI-generated synthetic images**
