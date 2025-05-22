@@ -49,7 +49,7 @@ The dataset consists of:
 **License:** MIT License — same as CIFAR-10  
 This project does not claim ownership of the dataset. All rights remain with the original creators.
 
-### 📚 Acknowledgements
+### Acknowledgements
 
 This project is based on the **CIFAKE** dataset published by:
 
