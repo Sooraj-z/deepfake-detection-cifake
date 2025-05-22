@@ -3,6 +3,10 @@
 ## 🧠 Overview
 This project uses custom CNNs and pretrained models (ResNet18, VGG16) to detect deepfake face images from the public CIFAKE dataset. Model performance is evaluated using accuracy, confusion matrix, ROC and PR curves. Interpretability is added through Grad-CAM heatmaps.
 
+## 🧪 View Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sooraj-z/deepfake-detection-cifake/blob/main/CIFAKE_Deep_Learning.ipynb)
+
 ## 📦 Tools & Frameworks
 - Python
 - PyTorch, torchvision
